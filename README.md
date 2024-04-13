@@ -1,5 +1,12 @@
-# LeetCode-Swift
+# LeetCode-Swift 
 This repo containts Solutions of LeetCode Problems written in Swift.
+
+<!-- Your other README content goes here -->
+
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <h3>Total Count: <span style="color: green;">100</span></h3>
+</div>
+
 
 ### 1. 1D - Dynamic Programming
 
@@ -25,6 +32,16 @@ This repo containts Solutions of LeetCode Problems written in Swift.
 | 5 | Maximum Depth of Binary Tree |  |
 | 6 | Invert Binary Tree |  |
 | 7 | Path Sum |  |
+
+### 3. Binary Tree BFS
+
+| S.No. | Program | Link |
+|----------|----------|----------|
+| 1 | Binary Tree Level Order Traversal |  |
+| 2 | Binary Tree Zigzag Level Order Traversal |  |
+| 3 | Binary Tree Right Side View |  |
+| 4 | Average of Levels in Binary Tree |  |
+
 
 
 
