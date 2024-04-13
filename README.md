@@ -1,7 +1,7 @@
 # LeetCode-Swift 
 This repo containts Solutions of LeetCode Problems written in Swift.
 
-### Total Programs: 14
+### Total Programs: 18
 
 ### 1. 1D - Dynamic Programming
 
@@ -28,7 +28,7 @@ This repo containts Solutions of LeetCode Problems written in Swift.
 | 6 | Invert Binary Tree |  |
 | 7 | Path Sum |  |
 
-### 3. Binary Tree BFS
+### 4. Binary Tree BFS
 
 | S.No. | Program | Link |
 |----------|----------|----------|
@@ -36,6 +36,21 @@ This repo containts Solutions of LeetCode Problems written in Swift.
 | 2 | Binary Tree Zigzag Level Order Traversal |  |
 | 3 | Binary Tree Right Side View |  |
 | 4 | Average of Levels in Binary Tree |  |
+
+### 5. Binary Search Tree
+
+| S.No. | Program | Link |
+|----------|----------|----------|
+| 1 | Minimum Absolute Difference in BST |  |
+| 2 | Minimum Distance Between BST Nodes |  |
+
+### 6. Graph
+
+| S.No. | Program | Link |
+|----------|----------|----------|
+| 1 | Course Schedule |  |
+| 2 | Course Schedule II |  |
+
 
 
 
