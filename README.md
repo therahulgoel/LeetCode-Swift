@@ -48,8 +48,8 @@ This repo containts Solutions of LeetCode Problems written in Swift.
 
 | S.No. | Program | Link |
 |----------|----------|----------|
-| 1 | Course Schedule |  |
-| 2 | Course Schedule II |  |
+| 1 | Course Schedule | https://leetcode.com/problems/course-schedule/ |
+| 2 | Course Schedule II | https://leetcode.com/problems/course-schedule-ii/ |
 
 
 
