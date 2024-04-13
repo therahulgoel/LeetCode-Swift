@@ -1,12 +1,7 @@
 # LeetCode-Swift 
 This repo containts Solutions of LeetCode Problems written in Swift.
 
-<!-- Your other README content goes here -->
-
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <h3>Total Count: <span style="color: green;">100</span></h3>
-</div>
-
+### Total Programs: 14
 
 ### 1. 1D - Dynamic Programming
 
