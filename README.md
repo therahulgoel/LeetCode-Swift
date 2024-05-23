@@ -44,12 +44,15 @@ This repo containts Solutions of LeetCode Problems written in Swift.
 | 1 | Minimum Absolute Difference in BST |  
 | 2 | Minimum Distance Between BST Nodes |  
 
-### 6. Graph
+### 6. Heap
 
 | S.No. | Program |
 |----------|----------|
-| 1 | Course Schedule | 
-| 2 | Course Schedule II | 
+| 1 | 215. Kth Largest Element in an Array | 
+| 2 | 2974. Minimum Number Game | 
+| 3 | 2558. Take Gifts From the Richest Pile | 
+| 4 | 1962. Remove Stones to Minimize the Total | 
+
 
 
 
