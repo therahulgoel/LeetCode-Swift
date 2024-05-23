@@ -5,51 +5,51 @@ This repo containts Solutions of LeetCode Problems written in Swift.
 
 ### 1. 1D - Dynamic Programming
 
-| S.No. | Program | Link |
-|----------|----------|----------|
-| 1 | Climbing Stairs | https://leetcode.com/problems/climbing-stairs/ |
-| 2 | House Robber  | https://leetcode.com/problems/house-robber/ |
+| S.No. | Program |
+|----------|----------|
+| 1 | 70. Climbing Stairs | 
+| 2 | 198. House Robber  | 
 
 ### 2. Multi D - Dynamic Programming
 
-| S.No. | Program | Link |
-|----------|----------|----------|
-| 1 | Unique Paths | https://leetcode.com/problems/unique-paths/ |
+| S.No. | Program |
+|----------|----------|
+| 1 | Unique Paths |
 
 ### 3. Binary Tree
 
-| S.No. | Program | Link |
-|----------|----------|----------|
-| 1 | Binary Tree Preorder Traversal |  |
-| 2 | Binary Tree Inorder Traversal |  |
-| 3 | Binary Tree Postorder Traversal |  |
-| 4 | Count Complete Tree Nodes |  |
-| 5 | Maximum Depth of Binary Tree |  |
-| 6 | Invert Binary Tree |  |
-| 7 | Path Sum |  |
+| S.No. | Program | 
+|----------|----------|
+| 1 | Binary Tree Preorder Traversal | 
+| 2 | Binary Tree Inorder Traversal |  
+| 3 | Binary Tree Postorder Traversal |  
+| 4 | Count Complete Tree Nodes |  
+| 5 | Maximum Depth of Binary Tree |  
+| 6 | Invert Binary Tree |  
+| 7 | Path Sum |  
 
 ### 4. Binary Tree BFS
 
-| S.No. | Program | Link |
-|----------|----------|----------|
-| 1 | Binary Tree Level Order Traversal |  |
-| 2 | Binary Tree Zigzag Level Order Traversal |  |
-| 3 | Binary Tree Right Side View |  |
-| 4 | Average of Levels in Binary Tree |  |
+| S.No. | Program |
+|----------|----------|
+| 1 | Binary Tree Level Order Traversal | 
+| 2 | Binary Tree Zigzag Level Order Traversal |  
+| 3 | Binary Tree Right Side View |  
+| 4 | Average of Levels in Binary Tree |  
 
 ### 5. Binary Search Tree
 
-| S.No. | Program | Link |
-|----------|----------|----------|
-| 1 | Minimum Absolute Difference in BST |  |
-| 2 | Minimum Distance Between BST Nodes |  |
+| S.No. | Program |
+|----------|----------|
+| 1 | Minimum Absolute Difference in BST |  
+| 2 | Minimum Distance Between BST Nodes |  
 
 ### 6. Graph
 
-| S.No. | Program | Link |
-|----------|----------|----------|
-| 1 | Course Schedule | https://leetcode.com/problems/course-schedule/ |
-| 2 | Course Schedule II | https://leetcode.com/problems/course-schedule-ii/ |
+| S.No. | Program |
+|----------|----------|
+| 1 | Course Schedule | 
+| 2 | Course Schedule II | 
 
 
 
